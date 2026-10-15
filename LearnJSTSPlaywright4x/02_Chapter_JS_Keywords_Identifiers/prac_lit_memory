@@ -1,0 +1,15 @@
+Keywords:
+var,let,const
+function ,await, asyn,
+class,this,new,super,extends,continue,constructor,if else,switch,case,break,try,catch,finally throw,new,return
+ import ,export
+ //'require' is a identifier not keyword
+
+identifiers
+rules:
+1) should start with letter not numbers e.g start,Start123,start@
+2) can start with underscore not with symbol '_' e.g _abc
+3) case sensitive e.g abc and ABC are different
+4)keyword can't be used as identifiers like let , var, const can't be used
+
+
